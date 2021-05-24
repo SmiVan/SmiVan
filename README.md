@@ -1,4 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SmiVan&count_private=true&theme=midnight-purple&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SmiVan&count_private=true&theme=graywhite&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SmiVan&layout=compact&langs_count=8&count_private=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)-->
 
